@@ -71,7 +71,7 @@ const detailsContainer=document.getElementById('details-container')
 detailsContainer.innerHTML=
 `
 <div class="card bg-base-100 image-full  shadow-sm">
-  <figure>
+  <figure>  
     <img
       src="${video.thumbnail}"
       alt="Shoes" />
